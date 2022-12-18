@@ -11,21 +11,25 @@ theme = "blogge-hugo-theme"
     url= ""
     weight= 1
   [[menu.main]]
-    name = "Recipes"
+    name = "Cuisine"
     url= "recipe"
     weight= 2
   [[menu.main]]
-    name = "How to Articles"
+    name = "Skills"
     url= "how_to"
     weight= 3
   [[menu.main]]
-    name = "Places"
+    name = "Destinations"
     url= "place"
     weight= 4
   [[menu.main]]
     name = "Experiences"
     url= "experience"
     weight= 5
+  # [[menu.main]]
+  #   name = "Perspective"
+  #   url= "experience"
+  #   weight= 5.5  
   [[menu.main]]
     name = "About"
     url= "about"
